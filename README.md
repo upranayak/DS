@@ -1,1 +1,1 @@
-# Data Structures and Alogrithms Revision
+# Data Structures and Algorithms Revision
